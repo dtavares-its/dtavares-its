@@ -1,24 +1,21 @@
 # Douglas Tavares
 
-**Software Engineer · Java, Spring Boot, React · AWS and Kubernetes**
+Desenvolvedor de software com mais de 15 anos de atuação.
 
-Brazil · remote · overlap with US Eastern hours
+Construo e mantenho sistemas em produção. No backend, trabalho principalmente com Java e Spring Boot, e também com Kotlin, .NET, Node.js e Python. No frontend, com React e Angular. Para colocar o software no ar, uso Docker, Kubernetes, AWS e Azure. Tenho a certificação AWS Cloud Practitioner.
 
-I have 15+ years shipping production systems. These days that means Java and Spring Boot APIs, React when the product needs a UI, and services running on AWS and Azure with Docker and Kubernetes.
+Ao longo do caminho também sustentei e modernizei sistemas legados, entre eles COBOL, Java/Flex e AngularJS.
 
-I am looking for a mid-level remote role on a team that works in English. I write short updates, confirm decisions in writing, and say early when I am blocked.
+## No que eu trabalho
 
-## What I use
+- **Backend:** Java, Spring Boot, Kotlin, .NET, Node.js, Python, APIs REST e SQL
+- **Frontend:** React, TypeScript, Angular e HTML
+- **Cloud e operação:** AWS, Azure, Docker, Kubernetes e CI/CD
 
-- **Backend:** Java, Spring Boot, REST, SQL. Also Kotlin, Node.js, .NET, and Python.
-- **Frontend:** React and TypeScript. Also Angular.
-- **Platform:** Docker, Kubernetes, CI/CD, AWS, and Azure.
-- **Certification:** AWS Certified Cloud Practitioner.
+## Este perfil
 
-## This profile
+Tirei os repositórios da época da faculdade e estou recomeçando o portfólio. Os próximos projetos daqui vão ser pequenos e possíveis de rodar: uma API, testes, um Dockerfile e um README com os comandos.
 
-Old coursework is gone. New public repositories will be small and runnable: an API, tests, a Dockerfile, and a README with the commands to try it.
-
-## Contact
+## Contato
 
 [github.com/dtavares-its](https://github.com/dtavares-its)
